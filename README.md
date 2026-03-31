@@ -33,3 +33,8 @@ not ->
  ``if (se)`` -> Verifica se uma informação é true. Se for ele executa o código 
  ``elif (senão se)`` -> É usado para testar várias condições. Ele só executa o código
  ``else (senão)`` ->Executa o código se a condiçõo if for false 
+
+ ## boas praticas
+ 1. qualquer variavel em pyton usa o padrão de case.snake_case ou recentemente o cammelCase
+ 2. Se você nao observa alguma estrutura(90% de chance) de ser uma função.
+ 3. Pynthon não tem constante porem utilizamos o padrão case.UPERCASE,para simular que aquela variavel não pode ser auterada./

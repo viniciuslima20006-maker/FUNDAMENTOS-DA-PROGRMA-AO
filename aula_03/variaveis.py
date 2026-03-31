@@ -11,3 +11,5 @@ cidade = "Rio de Janeiro" # string
 cpf = 15269643766 # number-int 
 salario = 1500.78 # number-float
 casado= False  # boolean
+print(casado)
+print(cpf)

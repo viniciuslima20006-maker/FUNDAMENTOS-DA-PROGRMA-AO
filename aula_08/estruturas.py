@@ -11,7 +11,7 @@
 # else:
 #     print("voce e menor de idade")
 
-idade = 73
+idade = 28
 if idade >= 18:
     print("voce e maior de idade")
 elif idade >= 0 and idade < 18:
